@@ -1,0 +1,6240 @@
+{"sentences": [
+    {
+        "ind": 0,
+        "text": "睡觉是猫猫的快乐。",
+        "index": 0,
+        "raw": "睡觉是猫猫的快乐。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "睡觉",
+                "pinyin": "shuìjiào",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "快乐",
+                "pinyin": "kuàilè",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "出去旅游？",
+        "index": 1,
+        "raw": "出去旅游？",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "出去",
+                "pinyin": "chūqù",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "？",
+                "chinese": "旅游",
+                "pinyin": "lǚyóu",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "和Alice爸爸看电视？",
+        "index": 2,
+        "raw": "和Alice爸爸看电视？",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "和",
+                "pinyin": "hé",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "爸爸",
+                "pinyin": "bàbà",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "？",
+                "chinese": "看电视",
+                "pinyin": "kàndiànshì",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "和邻居猫猫一起玩？",
+        "index": 3,
+        "raw": "和邻居猫猫一起玩？",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "和",
+                "pinyin": "hé",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "邻居",
+                "pinyin": "línjū",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一起",
+                "pinyin": "yìqǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "？",
+                "chinese": "玩",
+                "pinyin": "wán",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "不要！",
+        "index": 4,
+        "raw": "不要！",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "！",
+                "chinese": "不要",
+                "pinyin": "búyào",
+                "pos": "start"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫宁愿小睡一会儿。",
+        "index": 5,
+        "raw": "猫猫宁愿小睡一会儿。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "宁愿",
+                "pinyin": "nìngyuàn",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "小睡",
+                "pinyin": "xiǎoshuì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。",
+                "chinese": "一会儿",
+                "pinyin": "yīhuìer",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "可以在Alice房间睡： 温暖舒适！",
+        "index": 6,
+        "raw": "可以在Alice房间睡： 温暖舒适！",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "可以",
+                "pinyin": "kěyǐ",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "房间",
+                "pinyin": "fángjiān",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "： ",
+                "chinese": "睡",
+                "pinyin": "shuì",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "温暖",
+                "pinyin": "wēnnuǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": "！",
+                "chinese": "舒适",
+                "pinyin": "shūshì",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "可以在楼下Alice 妈妈最喜欢的白沙发睡： 又大又宽敞！",
+        "index": 7,
+        "raw": "可以在楼下Alice 妈妈最喜欢的白沙发睡： 又大又宽敞！",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "可以",
+                "pinyin": "kěyǐ",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "楼下",
+                "pinyin": "lóuxià",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": " ",
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "妈妈",
+                "pinyin": "māmā",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "最",
+                "pinyin": "zuì",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "喜欢",
+                "pinyin": "xǐhuān",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "白",
+                "pinyin": "bái",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "沙发",
+                "pinyin": "shāfā",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "： ",
+                "chinese": "睡",
+                "pinyin": "shuì",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "又",
+                "pinyin": "yòu",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "大",
+                "pinyin": "dà",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "又",
+                "pinyin": "yòu",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": "！",
+                "chinese": "宽敞",
+                "pinyin": "kuānchǎng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "今天猫猫在楼上的学习室睡。 如果睡到中午， 阳光从窗户会慢慢的照在猫猫身上。 一定会太舒服了！",
+        "index": 8,
+        "raw": "今天猫猫在楼上的学习室睡。 如果睡到中午， 阳光从窗户会慢慢的照在猫猫身上。 一定会太舒服了！\n",
+        "newlines": 1,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "今天",
+                "pinyin": "jīntiān",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "楼上",
+                "pinyin": "lóushàng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "学习室",
+                "pinyin": "xuéxíshì",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。 ",
+                "chinese": "睡",
+                "pinyin": "shuì",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "如果",
+                "pinyin": "rúguǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "睡",
+                "pinyin": "shuì",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": "， ",
+                "chinese": "中午",
+                "pinyin": "zhōngwǔ",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "阳光",
+                "pinyin": "yángguāng",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "从",
+                "pinyin": "cóng",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": null,
+                "chinese": "窗户",
+                "pinyin": "chuānghù",
+                "pos": "middle"
+            },
+            {
+                "index": 18,
+                "punctuation": null,
+                "chinese": "会",
+                "pinyin": "huì",
+                "pos": "middle"
+            },
+            {
+                "index": 19,
+                "punctuation": null,
+                "chinese": "慢慢",
+                "pinyin": "mànmàn",
+                "pos": "middle"
+            },
+            {
+                "index": 20,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 21,
+                "punctuation": null,
+                "chinese": "照",
+                "pinyin": "zhào",
+                "pos": "middle"
+            },
+            {
+                "index": 22,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 23,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 24,
+                "punctuation": "。 ",
+                "chinese": "身上",
+                "pinyin": "shēnshàng",
+                "pos": "middle"
+            },
+            {
+                "index": 27,
+                "punctuation": null,
+                "chinese": "一定",
+                "pinyin": "yídìng",
+                "pos": "middle"
+            },
+            {
+                "index": 28,
+                "punctuation": null,
+                "chinese": "会",
+                "pinyin": "huì",
+                "pos": "middle"
+            },
+            {
+                "index": 29,
+                "punctuation": null,
+                "chinese": "太",
+                "pinyin": "tài",
+                "pos": "middle"
+            },
+            {
+                "index": 30,
+                "punctuation": null,
+                "chinese": "舒服",
+                "pinyin": "shūfú",
+                "pos": "middle"
+            },
+            {
+                "index": 31,
+                "punctuation": "！",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“猫猫醒来！”",
+        "index": 9,
+        "raw": "“猫猫醒来！”\n",
+        "newlines": 1,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "！”",
+                "chinese": "醒来",
+                "pinyin": "xǐnglái",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫猛然醒了。 是不是听到别人叫他名字？",
+        "index": 10,
+        "raw": "猫猫猛然醒了。 是不是听到别人叫他名字？",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "猛然",
+                "pinyin": "měngrán",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "醒",
+                "pinyin": "xǐng",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。 ",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "是不是",
+                "pinyin": "shìbúshì",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "听到",
+                "pinyin": "tīngdào",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "别人",
+                "pinyin": "biérén",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "叫",
+                "pinyin": "jiào",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "？",
+                "chinese": "名字",
+                "pinyin": "míngzì",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "也许也没有。 也许猫猫还在做梦。",
+        "index": 11,
+        "raw": "也许也没有。 也许猫猫还在做梦。\n",
+        "newlines": 1,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "也许",
+                "pinyin": "yěxǔ",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "也",
+                "pinyin": "yě",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。 ",
+                "chinese": "没有",
+                "pinyin": "méiyǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "也许",
+                "pinyin": "yěxǔ",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "还",
+                "pinyin": "hái",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "做梦",
+                "pinyin": "zuòmèng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“猫猫醒来啰！”",
+        "index": 12,
+        "raw": "“猫猫醒来啰！”\n",
+        "newlines": 1,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "醒来",
+                "pinyin": "xǐnglái",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "！”",
+                "chinese": "啰",
+                "pinyin": "luō",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "这次猫猫真的醒了。",
+        "index": 13,
+        "raw": "这次猫猫真的醒了。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "这次",
+                "pinyin": "zhècì",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "真的",
+                "pinyin": "zhēnde",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "醒",
+                "pinyin": "xǐng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "看见狗狗高兴地站在他面前。",
+        "index": 14,
+        "raw": "看见狗狗高兴地站在他面前。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "看见",
+                "pinyin": "kànjiàn",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "高兴",
+                "pinyin": "gāoxìng",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "地站",
+                "pinyin": "dìzhàn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。",
+                "chinese": "面前",
+                "pinyin": "miànqián",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫有一点迷糊。“狗狗， 怎么了？ 现在是几点？”",
+        "index": 15,
+        "raw": "猫猫有一点迷糊。“狗狗， 怎么了？ 现在是几点？”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "有",
+                "pinyin": "yǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "一点",
+                "pinyin": "yìdiǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。“",
+                "chinese": "迷糊",
+                "pinyin": "míhū",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "， ",
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "怎么",
+                "pinyin": "zěnme",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "？ ",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "现在",
+                "pinyin": "xiànzài",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": "？”",
+                "chinese": "几点",
+                "pinyin": "jǐdiǎn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“现在六点。”",
+        "index": 16,
+        "raw": "“现在六点。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "现在",
+                "pinyin": "xiànzài",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。”",
+                "chinese": "六点",
+                "pinyin": "liùdiǎn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“六点？”猫猫问。“不可能是六点。 我还没吃中饭。”",
+        "index": 17,
+        "raw": "“六点？”猫猫问。“不可能是六点。 我还没吃中饭。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "？”",
+                "chinese": "六点",
+                "pinyin": "liùdiǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "。“",
+                "chinese": "问",
+                "pinyin": "wèn",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "不",
+                "pinyin": "bù",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "可能",
+                "pinyin": "kěnéng",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "。 ",
+                "chinese": "六点",
+                "pinyin": "liùdiǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "还",
+                "pinyin": "hái",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "没",
+                "pinyin": "méi",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": null,
+                "chinese": "吃",
+                "pinyin": "chī",
+                "pos": "middle"
+            },
+            {
+                "index": 18,
+                "punctuation": "。”",
+                "chinese": "中饭",
+                "pinyin": "zhōngfàn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“是早上六点。”",
+        "index": 18,
+        "raw": "“是早上六点。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "早上",
+                "pinyin": "zǎoshàng",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。”",
+                "chinese": "六点",
+                "pinyin": "liùdiǎn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫睁大眼睛。“早上六点！”",
+        "index": 19,
+        "raw": "猫猫睁大眼睛。“早上六点！”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "。“",
+                "chinese": "睁大眼睛",
+                "pinyin": "zhēngdàyǎnjīng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "早上",
+                "pinyin": "zǎoshàng",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "！”",
+                "chinese": "六点",
+                "pinyin": "liùdiǎn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫生气地说，“狗狗你出去！ 不要吵我。 我正在睡觉！”",
+        "index": 20,
+        "raw": "猫猫生气地说，“狗狗你出去！ 不要吵我。 我正在睡觉！”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "生气",
+                "pinyin": "shēngqì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "，“",
+                "chinese": "地说",
+                "pinyin": "dìshuō",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "！ ",
+                "chinese": "出去",
+                "pinyin": "chūqù",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "不要",
+                "pinyin": "búyào",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "吵",
+                "pinyin": "chǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": "。 ",
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "正在",
+                "pinyin": "zhèngzài",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": "！”",
+                "chinese": "睡觉",
+                "pinyin": "shuìjiào",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫转身， 又回去睡了。",
+        "index": 21,
+        "raw": "猫猫转身， 又回去睡了。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "转身",
+                "pinyin": "zhuǎnshēn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "又",
+                "pinyin": "yòu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "回去",
+                "pinyin": "huíqù",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "睡",
+                "pinyin": "shuì",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“猫猫”， 狗狗轻轻地说。",
+        "index": 22,
+        "raw": "“猫猫”， 狗狗轻轻地说。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "”， ",
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "轻轻地",
+                "pinyin": "qīngqīngdì",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。",
+                "chinese": "说",
+                "pinyin": "shuō",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“什么”， 猫猫生气地说。",
+        "index": 23,
+        "raw": "“什么”， 猫猫生气地说。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "”， ",
+                "chinese": "什么",
+                "pinyin": "shénme",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "生气",
+                "pinyin": "shēngqì",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。",
+                "chinese": "地说",
+                "pinyin": "dìshuō",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“想不想跟我去散步？”",
+        "index": 24,
+        "raw": "“想不想跟我去散步？”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "想",
+                "pinyin": "xiǎng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "不想",
+                "pinyin": "bùxiǎng",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "跟",
+                "pinyin": "gēn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "？”",
+                "chinese": "散步",
+                "pinyin": "sànbù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“不想。 非常非常不想。”",
+        "index": 25,
+        "raw": "“不想。 非常非常不想。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "。 ",
+                "chinese": "不想",
+                "pinyin": "bùxiǎng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "非常",
+                "pinyin": "fēicháng",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "非常",
+                "pinyin": "fēicháng",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。”",
+                "chinese": "不想",
+                "pinyin": "bùxiǎng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗告诉猫猫， 他每天和Alice爸爸上早步。",
+        "index": 26,
+        "raw": "狗狗告诉猫猫， 他每天和Alice爸爸上早步。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "告诉",
+                "pinyin": "gàosù",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "， ",
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "每天",
+                "pinyin": "měitiān",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "和",
+                "pinyin": "hé",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "爸爸",
+                "pinyin": "bàbà",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "上",
+                "pinyin": "shàng",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "。",
+                "chinese": "早步",
+                "pinyin": "zǎobù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "但是今天Alice爸爸很早就上班了。",
+        "index": 27,
+        "raw": "但是今天Alice爸爸很早就上班了。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "但是",
+                "pinyin": "dànshì",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "今天",
+                "pinyin": "jīntiān",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "爸爸",
+                "pinyin": "bàbà",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "很",
+                "pinyin": "hěn",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "早就",
+                "pinyin": "zǎojiù",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "上班",
+                "pinyin": "shàngbān",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "他告诉狗狗今天没有时间。 是这个原因狗狗才来找猫猫。",
+        "index": 28,
+        "raw": "他告诉狗狗今天没有时间。 是这个原因狗狗才来找猫猫。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "告诉",
+                "pinyin": "gàosù",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "今天",
+                "pinyin": "jīntiān",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "没有",
+                "pinyin": "méiyǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "。 ",
+                "chinese": "时间",
+                "pinyin": "shíjiān",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "这个",
+                "pinyin": "zhègè",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "原因",
+                "pinyin": "yuányīn",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": null,
+                "chinese": "才",
+                "pinyin": "cái",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "来",
+                "pinyin": "lái",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "找",
+                "pinyin": "zhǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": "。",
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“你自己去吧”， 猫猫说。",
+        "index": 29,
+        "raw": "“你自己去吧”， 猫猫说。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "自己",
+                "pinyin": "zìjǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "”， ",
+                "chinese": "吧",
+                "pinyin": "ba",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "说",
+                "pinyin": "shuō",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“我想跟猫猫去。”",
+        "index": 30,
+        "raw": "“我想跟猫猫去。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "想",
+                "pinyin": "xiǎng",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "跟",
+                "pinyin": "gēn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "。”",
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“我不想。 你等到明天吧。”",
+        "index": 31,
+        "raw": "“我不想。 你等到明天吧。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。 ",
+                "chinese": "不想",
+                "pinyin": "bùxiǎng",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "等到",
+                "pinyin": "děngdào",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "明天",
+                "pinyin": "míngtiān",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": "。”",
+                "chinese": "吧",
+                "pinyin": "ba",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“我需要每天去”， 狗狗着急地说。",
+        "index": 32,
+        "raw": "“我需要每天去”， 狗狗着急地说。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "需要",
+                "pinyin": "xūyào",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "每天",
+                "pinyin": "měitiān",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "”， ",
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "着急",
+                "pinyin": "zháojí",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "。",
+                "chinese": "地说",
+                "pinyin": "dìshuō",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“有一次没有， 狗狗在地毯上撒尿了。”",
+        "index": 33,
+        "raw": "“有一次没有， 狗狗在地毯上撒尿了。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "有",
+                "pinyin": "yǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "一次",
+                "pinyin": "yīcì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "， ",
+                "chinese": "没有",
+                "pinyin": "méiyǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "地毯",
+                "pinyin": "dìtǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "上",
+                "pinyin": "shàng",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "撒尿",
+                "pinyin": "sāniào",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "。”",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "Alice妈妈好生气。 她大喊：“狗狗， 你尿在我地毯上了！”",
+        "index": 34,
+        "raw": "Alice妈妈好生气。 她大喊：“狗狗， 你尿在我地毯上了！”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "妈妈",
+                "pinyin": "māmā",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "好",
+                "pinyin": "hǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。 ",
+                "chinese": "生气",
+                "pinyin": "shēngqì",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "她",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "：“",
+                "chinese": "大喊",
+                "pinyin": "dàhǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "， ",
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "尿",
+                "pinyin": "niào",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": null,
+                "chinese": "地毯",
+                "pinyin": "dìtǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 18,
+                "punctuation": null,
+                "chinese": "上",
+                "pinyin": "shàng",
+                "pos": "middle"
+            },
+            {
+                "index": 19,
+                "punctuation": "！”",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫严厉地看着狗狗。",
+        "index": 35,
+        "raw": "猫猫严厉地看着狗狗。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "严厉",
+                "pinyin": "yánlì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "地",
+                "pinyin": "dì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "看着",
+                "pinyin": "kànzhe",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“狗狗， 你今天这么早把我吵醒。 我很生气。 你自己去。 我要睡觉了。”",
+        "index": 36,
+        "raw": "“狗狗， 你今天这么早把我吵醒。 我很生气。 你自己去。 我要睡觉了。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "今天",
+                "pinyin": "jīntiān",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "这么",
+                "pinyin": "zhème",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "早",
+                "pinyin": "zǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "把",
+                "pinyin": "bǎ",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "。 ",
+                "chinese": "吵醒",
+                "pinyin": "chǎoxǐng",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "很",
+                "pinyin": "hěn",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": "。 ",
+                "chinese": "生气",
+                "pinyin": "shēngqì",
+                "pos": "middle"
+            },
+            {
+                "index": 18,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 19,
+                "punctuation": null,
+                "chinese": "自己",
+                "pinyin": "zìjǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 20,
+                "punctuation": "。 ",
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 23,
+                "punctuation": null,
+                "chinese": "我要",
+                "pinyin": "wǒyào",
+                "pos": "middle"
+            },
+            {
+                "index": 24,
+                "punctuation": null,
+                "chinese": "睡觉",
+                "pinyin": "shuìjiào",
+                "pos": "middle"
+            },
+            {
+                "index": 25,
+                "punctuation": "。”",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“猫猫， 你真的很生气吗？”狗狗问。",
+        "index": 37,
+        "raw": "“猫猫， 你真的很生气吗？”狗狗问。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "真的",
+                "pinyin": "zhēnde",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "很",
+                "pinyin": "hěn",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "生气",
+                "pinyin": "shēngqì",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": "？”",
+                "chinese": "吗",
+                "pinyin": "ma",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": "。",
+                "chinese": "问",
+                "pinyin": "wèn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫没回答。",
+        "index": 38,
+        "raw": "猫猫没回答。\n",
+        "newlines": 1,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "没",
+                "pinyin": "méi",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "回答",
+                "pinyin": "huídá",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗伤心地离开他朋友。",
+        "index": 39,
+        "raw": "狗狗伤心地离开他朋友。\n",
+        "newlines": 1,
+        "spacingAfter": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "伤心地",
+                "pinyin": "shāngxīndì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "离开",
+                "pinyin": "líkāi",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "朋友",
+                "pinyin": "péngyǒu",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "------",
+        "index": 40,
+        "raw": "------\n",
+        "newlines": 0,
+        "linebreak": true,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "------",
+                "pinyin": "------",
+                "pos": "start"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫通常很快就可以睡着。",
+        "index": 41,
+        "raw": "猫猫通常很快就可以睡着。",
+        "newlines": 0,
+        "spacingBefore": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "通常",
+                "pinyin": "tōngcháng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "很快",
+                "pinyin": "hěnkuài",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "就",
+                "pinyin": "jiù",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "可以",
+                "pinyin": "kěyǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "。",
+                "chinese": "睡着",
+                "pinyin": "shuìzháo",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "但是今天， 她不知道为什么， 一点也睡不着。",
+        "index": 42,
+        "raw": "但是今天， 她不知道为什么， 一点也睡不着。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "但是",
+                "pinyin": "dànshì",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "今天",
+                "pinyin": "jīntiān",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "她",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "不",
+                "pinyin": "bù",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "知道",
+                "pinyin": "zhīdào",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "， ",
+                "chinese": "为什么",
+                "pinyin": "wèishénme",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "一点",
+                "pinyin": "yìdiǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "也",
+                "pinyin": "yě",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": "。",
+                "chinese": "睡不着",
+                "pinyin": "shuìbùzhe",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "早上六点散步？",
+        "index": 43,
+        "raw": "早上六点散步？",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "早上",
+                "pinyin": "zǎoshàng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "六点",
+                "pinyin": "liùdiǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "？",
+                "chinese": "散步",
+                "pinyin": "sànbù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "谁会这么早去？ 我是肯定不会。",
+        "index": 44,
+        "raw": "谁会这么早去？ 我是肯定不会。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "谁",
+                "pinyin": "shuí",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "会",
+                "pinyin": "huì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "这么",
+                "pinyin": "zhème",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "早",
+                "pinyin": "zǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "？ ",
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "肯定",
+                "pinyin": "kěndìng",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "。",
+                "chinese": "不会",
+                "pinyin": "búhuì",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "几秒钟过去了。",
+        "index": 45,
+        "raw": "几秒钟过去了。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "几秒钟",
+                "pinyin": "jǐmiǎozhōng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "过去",
+                "pinyin": "guòqù",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“我还是去吧，”猫猫终于决定。",
+        "index": 46,
+        "raw": "“我还是去吧，”猫猫终于决定。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "还是",
+                "pinyin": "háishì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "，”",
+                "chinese": "吧",
+                "pinyin": "ba",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "终于",
+                "pinyin": "zhōngyú",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "决定",
+                "pinyin": "juédìng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫打算， 接下来几天， 每天多睡一点。",
+        "index": 47,
+        "raw": "猫猫打算， 接下来几天， 每天多睡一点。\n",
+        "newlines": 1,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "打算",
+                "pinyin": "dǎsuàn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "接下来",
+                "pinyin": "jiēxiàlái",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "， ",
+                "chinese": "几天",
+                "pinyin": "jǐtiān",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "每天",
+                "pinyin": "měitiān",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "多",
+                "pinyin": "duō",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "睡",
+                "pinyin": "shuì",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "。",
+                "chinese": "一点",
+                "pinyin": "yìdiǎn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫伸了个懒腰， 然后跳到窗台上， 从窗户跳到前院。",
+        "index": 48,
+        "raw": "猫猫伸了个懒腰， 然后跳到窗台上， 从窗户跳到前院。\n",
+        "newlines": 1,
+        "spacingAfter": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "伸",
+                "pinyin": "shēn",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "个",
+                "pinyin": "gè",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "， ",
+                "chinese": "懒腰",
+                "pinyin": "lǎnyāo",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "然后",
+                "pinyin": "ránhòu",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "跳",
+                "pinyin": "tiào",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "， ",
+                "chinese": "窗台上",
+                "pinyin": "chuāngtáishàng",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "从",
+                "pinyin": "cóng",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "窗户",
+                "pinyin": "chuānghù",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "跳",
+                "pinyin": "tiào",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": "。",
+                "chinese": "前院",
+                "pinyin": "qiányuàn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "------",
+        "index": 49,
+        "raw": "------\n",
+        "newlines": 0,
+        "linebreak": true,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "------",
+                "pinyin": "------",
+                "pos": "start"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "每天早上Alice爸爸准备水和饼干给狗狗。",
+        "index": 50,
+        "raw": "每天早上Alice爸爸准备水和饼干给狗狗。",
+        "newlines": 0,
+        "spacingBefore": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "每天",
+                "pinyin": "měitiān",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "早上",
+                "pinyin": "zǎoshàng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "爸爸",
+                "pinyin": "bàbà",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "准备",
+                "pinyin": "zhǔnbèi",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "水",
+                "pinyin": "shuǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "和",
+                "pinyin": "hé",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "饼干",
+                "pinyin": "bǐnggān",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "给",
+                "pinyin": "gěi",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "然后喝一杯咖啡。",
+        "index": 51,
+        "raw": "然后喝一杯咖啡。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "然后",
+                "pinyin": "ránhòu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "喝一杯",
+                "pinyin": "hēyībēi",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "咖啡",
+                "pinyin": "kāfēi",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "看一下手机。",
+        "index": 52,
+        "raw": "看一下手机。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "看",
+                "pinyin": "kàn",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "一下",
+                "pinyin": "yīxià",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "手机",
+                "pinyin": "shǒujī",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "然后拿狗狗的皮带。",
+        "index": 53,
+        "raw": "然后拿狗狗的皮带。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "然后",
+                "pinyin": "ránhòu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "拿",
+                "pinyin": "ná",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "皮带",
+                "pinyin": "pídài",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "然后Alice爸爸和狗狗一起上他们习惯的早晨步。",
+        "index": 54,
+        "raw": "然后Alice爸爸和狗狗一起上他们习惯的早晨步。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "然后",
+                "pinyin": "ránhòu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "爸爸",
+                "pinyin": "bàbà",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "和",
+                "pinyin": "hé",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "一起",
+                "pinyin": "yìqǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "上",
+                "pinyin": "shàng",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "他们",
+                "pinyin": "tāmen",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "习惯",
+                "pinyin": "xíguàn",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "早晨",
+                "pinyin": "zǎochén",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "。",
+                "chinese": "步",
+                "pinyin": "bù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "今天狗狗是一个人。",
+        "index": 55,
+        "raw": "今天狗狗是一个人。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "今天",
+                "pinyin": "jīntiān",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一个",
+                "pinyin": "yígè",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "人",
+                "pinyin": "rén",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "自己吃几块饼干。",
+        "index": 56,
+        "raw": "自己吃几块饼干。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "自己",
+                "pinyin": "zìjǐ",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "吃",
+                "pinyin": "chī",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "几块",
+                "pinyin": "jǐkuài",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。",
+                "chinese": "饼干",
+                "pinyin": "bǐnggān",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "自己喝一些水。",
+        "index": 57,
+        "raw": "自己喝一些水。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "自己",
+                "pinyin": "zìjǐ",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "喝",
+                "pinyin": "hē",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "一些",
+                "pinyin": "yīxiē",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。",
+                "chinese": "水",
+                "pinyin": "shuǐ",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "自己拿皮带， 但是没带上。 只是叼在嘴里。",
+        "index": 58,
+        "raw": "自己拿皮带， 但是没带上。 只是叼在嘴里。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "自己",
+                "pinyin": "zìjǐ",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "拿",
+                "pinyin": "ná",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "， ",
+                "chinese": "皮带",
+                "pinyin": "pídài",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "但是",
+                "pinyin": "dànshì",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "没",
+                "pinyin": "méi",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。 ",
+                "chinese": "带上",
+                "pinyin": "dàishàng",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "只是",
+                "pinyin": "zhǐshì",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "叼",
+                "pinyin": "diāo",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": "。",
+                "chinese": "嘴里",
+                "pinyin": "zuǐlǐ",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗从后门出去。",
+        "index": 59,
+        "raw": "狗狗从后门出去。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "从",
+                "pinyin": "cóng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "后门",
+                "pinyin": "hòumén",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。",
+                "chinese": "出去",
+                "pinyin": "chūqù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗感觉有一点怕。",
+        "index": 60,
+        "raw": "狗狗感觉有一点怕。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "感觉",
+                "pinyin": "gǎnjué",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "有",
+                "pinyin": "yǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一点",
+                "pinyin": "yìdiǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "怕",
+                "pinyin": "pà",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“狗狗你不要怕!”狗狗大声说。",
+        "index": 61,
+        "raw": "“狗狗你不要怕!”狗狗大声说。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "不要",
+                "pinyin": "búyào",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "!”",
+                "chinese": "怕",
+                "pinyin": "pà",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "大声",
+                "pinyin": "dàshēng",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "说",
+                "pinyin": "shuō",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗小跑到前院， 看见一只小猫在等他。",
+        "index": 62,
+        "raw": "狗狗小跑到前院， 看见一只小猫在等他。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "小跑",
+                "pinyin": "xiǎopǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "， ",
+                "chinese": "前院",
+                "pinyin": "qiányuàn",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "看见",
+                "pinyin": "kànjiàn",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "一只",
+                "pinyin": "yīzhī",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "小猫",
+                "pinyin": "xiǎomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "等",
+                "pinyin": "děng",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "。",
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗认识这只小猫！",
+        "index": 63,
+        "raw": "狗狗认识这只小猫！",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "认识",
+                "pinyin": "rènshí",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "这",
+                "pinyin": "zhè",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "只",
+                "pinyin": "zhǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "！",
+                "chinese": "小猫",
+                "pinyin": "xiǎomāo",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "全世界， 只有一只小猫猫是狗狗的好朋友。",
+        "index": 64,
+        "raw": "全世界， 只有一只小猫猫是狗狗的好朋友。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "， ",
+                "chinese": "全世界",
+                "pinyin": "quánshìjiè",
+                "pos": "start"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "只有",
+                "pinyin": "zhǐyǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "一只",
+                "pinyin": "yīzhī",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "小猫猫",
+                "pinyin": "xiǎomāomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "好",
+                "pinyin": "hǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "。",
+                "chinese": "朋友",
+                "pinyin": "péngyǒu",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“猫猫!”狗狗大叫一声。",
+        "index": 65,
+        "raw": "“猫猫!”狗狗大叫一声。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "!”",
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "大叫",
+                "pinyin": "dàjiào",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。",
+                "chinese": "一声",
+                "pinyin": "yīshēng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“你怎么在这里？ 你不是在睡觉吗？”",
+        "index": 66,
+        "raw": "“你怎么在这里？ 你不是在睡觉吗？”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "怎么",
+                "pinyin": "zěnme",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "？ ",
+                "chinese": "这里",
+                "pinyin": "zhèlǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "不是",
+                "pinyin": "búshì",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "睡觉",
+                "pinyin": "shuìjiào",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "？”",
+                "chinese": "吗",
+                "pinyin": "ma",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“我今天睡饱了，”猫猫说。“可能我今早想散步。”",
+        "index": 67,
+        "raw": "“我今天睡饱了，”猫猫说。“可能我今早想散步。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "今天",
+                "pinyin": "jīntiān",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "睡饱",
+                "pinyin": "shuìbǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "，”",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": "。“",
+                "chinese": "说",
+                "pinyin": "shuō",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "可能",
+                "pinyin": "kěnéng",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "今",
+                "pinyin": "jīn",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "早",
+                "pinyin": "zǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "想",
+                "pinyin": "xiǎng",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": "。”",
+                "chinese": "散步",
+                "pinyin": "sànbù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“你是一个人去还是跟狗狗去？”狗狗问。",
+        "index": 68,
+        "raw": "“你是一个人去还是跟狗狗去？”狗狗问。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一个",
+                "pinyin": "yígè",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "人去",
+                "pinyin": "rénqù",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "还是",
+                "pinyin": "háishì",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "跟",
+                "pinyin": "gēn",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": "？”",
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": "。",
+                "chinese": "问",
+                "pinyin": "wèn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“我要跟我的朋友去。”",
+        "index": 69,
+        "raw": "“我要跟我的朋友去。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "我要",
+                "pinyin": "wǒyào",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "跟",
+                "pinyin": "gēn",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "朋友",
+                "pinyin": "péngyǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。”",
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗跳到空中。",
+        "index": 70,
+        "raw": "狗狗跳到空中。\n",
+        "newlines": 1,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "跳",
+                "pinyin": "tiào",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。",
+                "chinese": "空中",
+                "pinyin": "kōngzhōng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“跟我来。 我知道路!”",
+        "index": 71,
+        "raw": "“跟我来。 我知道路!”\n",
+        "newlines": 1,
+        "spacingAfter": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "。 ",
+                "chinese": "跟我来",
+                "pinyin": "gēnwǒlái",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "知道",
+                "pinyin": "zhīdào",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "!”",
+                "chinese": "路",
+                "pinyin": "lù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "------",
+        "index": 72,
+        "raw": "------\n",
+        "newlines": 0,
+        "linebreak": true,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "------",
+                "pinyin": "------",
+                "pos": "start"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "就这样， 两个朋友出发了。",
+        "index": 73,
+        "raw": "就这样， 两个朋友出发了。",
+        "newlines": 0,
+        "spacingBefore": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "就",
+                "pinyin": "jiù",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "这样",
+                "pinyin": "zhèyàng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "两个",
+                "pinyin": "liǎnggè",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "朋友",
+                "pinyin": "péngyǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "出发",
+                "pinyin": "chūfā",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "从Alice家， 走下一个下坡， 就到了Charlie的家。 Charlie是Alice学校的朋友。",
+        "index": 74,
+        "raw": "从Alice家， 走下一个下坡， 就到了Charlie的家。 Charlie是Alice学校的朋友。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "从",
+                "pinyin": "cóng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "， ",
+                "chinese": "家",
+                "pinyin": "jiā",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "走",
+                "pinyin": "zǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "下",
+                "pinyin": "xià",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "一个",
+                "pinyin": "yígè",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": "， ",
+                "chinese": "下坡",
+                "pinyin": "xiàpō",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "就",
+                "pinyin": "jiù",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "Charlie",
+                "pinyin": "Charlie",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": "。 ",
+                "chinese": "家",
+                "pinyin": "jiā",
+                "pos": "middle"
+            },
+            {
+                "index": 19,
+                "punctuation": null,
+                "chinese": "Charlie",
+                "pinyin": "Charlie",
+                "pos": "middle"
+            },
+            {
+                "index": 20,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 21,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 22,
+                "punctuation": null,
+                "chinese": "学校",
+                "pinyin": "xuéxiào",
+                "pos": "middle"
+            },
+            {
+                "index": 23,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 24,
+                "punctuation": "。",
+                "chinese": "朋友",
+                "pinyin": "péngyǒu",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "过一个马路， 过一个红绿灯， 就到了公园。",
+        "index": 75,
+        "raw": "过一个马路， 过一个红绿灯， 就到了公园。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "过",
+                "pinyin": "guò",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "一个",
+                "pinyin": "yígè",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "， ",
+                "chinese": "马路",
+                "pinyin": "mǎlù",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "过",
+                "pinyin": "guò",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "一个",
+                "pinyin": "yígè",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "， ",
+                "chinese": "红绿灯",
+                "pinyin": "hónglǜdēng",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "就",
+                "pinyin": "jiù",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": "。",
+                "chinese": "公园",
+                "pinyin": "gōngyuán",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "公园里有一排树。",
+        "index": 76,
+        "raw": "公园里有一排树。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "公园",
+                "pinyin": "gōngyuán",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "里",
+                "pinyin": "lǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "有",
+                "pinyin": "yǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一排",
+                "pinyin": "yīpái",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "树",
+                "pinyin": "shù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "有一棵树是狗狗的。",
+        "index": 77,
+        "raw": "有一棵树是狗狗的。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "有",
+                "pinyin": "yǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "一棵树",
+                "pinyin": "yīkēshù",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "是",
+                "pinyin": "shì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "他在树下做了他需要做的事。",
+        "index": 78,
+        "raw": "他在树下做了他需要做的事。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "树下",
+                "pinyin": "shùxià",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "做",
+                "pinyin": "zuò",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "需要",
+                "pinyin": "xūyào",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "做",
+                "pinyin": "zuò",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "事",
+                "pinyin": "shì",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "就像Alice的爸爸， 猫猫在他身边等着。",
+        "index": 79,
+        "raw": "就像Alice的爸爸， 猫猫在他身边等着。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "就",
+                "pinyin": "jiù",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "像",
+                "pinyin": "xiàng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "Alice",
+                "pinyin": "Alice",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "， ",
+                "chinese": "爸爸",
+                "pinyin": "bàbà",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "身边",
+                "pinyin": "shēnbiān",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "等",
+                "pinyin": "děng",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": "。",
+                "chinese": "着",
+                "pinyin": "zhe",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "完成以后， 狗狗感觉很高兴。",
+        "index": 80,
+        "raw": "完成以后， 狗狗感觉很高兴。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "完成",
+                "pinyin": "wánchéng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "以后",
+                "pinyin": "yǐhòu",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "感觉",
+                "pinyin": "gǎnjué",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "很",
+                "pinyin": "hěn",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。",
+                "chinese": "高兴",
+                "pinyin": "gāoxìng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗追逐了一些松鼠， 跳进一堆叶子， 在草地上闻来闻去。",
+        "index": 81,
+        "raw": "狗狗追逐了一些松鼠， 跳进一堆叶子， 在草地上闻来闻去。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "追逐",
+                "pinyin": "zhuīzhú",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一些",
+                "pinyin": "yīxiē",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "， ",
+                "chinese": "松鼠",
+                "pinyin": "sōngshǔ",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "跳进",
+                "pinyin": "tiàojìn",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "一堆",
+                "pinyin": "yīduī",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "， ",
+                "chinese": "叶子",
+                "pinyin": "yèzi",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "草地",
+                "pinyin": "cǎodì",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "上",
+                "pinyin": "shàng",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": "。",
+                "chinese": "闻来闻去",
+                "pinyin": "wénláiwénqù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫耐心地陪在狗狗身边。",
+        "index": 82,
+        "raw": "猫猫耐心地陪在狗狗身边。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "耐心",
+                "pinyin": "nàixīn",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "地陪",
+                "pinyin": "dìpéi",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "。",
+                "chinese": "身边",
+                "pinyin": "shēnbiān",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "回到家， 狗狗问猫猫，“早晨散步开心吗？”",
+        "index": 83,
+        "raw": "回到家， 狗狗问猫猫，“早晨散步开心吗？”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "回到",
+                "pinyin": "huídào",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "家",
+                "pinyin": "jiā",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "问",
+                "pinyin": "wèn",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "，“",
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "早晨",
+                "pinyin": "zǎochén",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "散步",
+                "pinyin": "sànbù",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": null,
+                "chinese": "开心",
+                "pinyin": "kāixīn",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": "？”",
+                "chinese": "吗",
+                "pinyin": "ma",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“很开心，”猫猫说。",
+        "index": 84,
+        "raw": "“很开心，”猫猫说。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "很",
+                "pinyin": "hěn",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "，”",
+                "chinese": "开心",
+                "pinyin": "kāixīn",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。",
+                "chinese": "说",
+                "pinyin": "shuō",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“但是我的沙发一直在等待我。 狗狗， 我去睡觉了。”",
+        "index": 85,
+        "raw": "“但是我的沙发一直在等待我。 狗狗， 我去睡觉了。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "但是",
+                "pinyin": "dànshì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "沙发",
+                "pinyin": "shāfā",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "一直",
+                "pinyin": "yìzhí",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "等待",
+                "pinyin": "děngdài",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": "。 ",
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "， ",
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "去",
+                "pinyin": "qù",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "睡觉",
+                "pinyin": "shuìjiào",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": "。”",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“要不要我陪你？”狗狗问。",
+        "index": 86,
+        "raw": "“要不要我陪你？”狗狗问。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "要",
+                "pinyin": "yào",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "不要",
+                "pinyin": "búyào",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "陪",
+                "pinyin": "péi",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "？”",
+                "chinese": "你",
+                "pinyin": "nǐ",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "问",
+                "pinyin": "wèn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "“不要。 早安。”",
+        "index": 87,
+        "raw": "“不要。 早安。”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": "“",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "。 ",
+                "chinese": "不要",
+                "pinyin": "búyào",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。”",
+                "chinese": "早安",
+                "pinyin": "zǎoān",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗留在厨房。",
+        "index": 88,
+        "raw": "狗狗留在厨房。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "留在",
+                "pinyin": "liúzài",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "厨房",
+                "pinyin": "chúfáng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗想出了一个好主意。“我也要等！”",
+        "index": 89,
+        "raw": "狗狗想出了一个好主意。“我也要等！”",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "想出",
+                "pinyin": "xiǎngchū",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一个",
+                "pinyin": "yígè",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "好",
+                "pinyin": "hǎo",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "。“",
+                "chinese": "主意",
+                "pinyin": "zhǔyì",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "我",
+                "pinyin": "wǒ",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "也",
+                "pinyin": "yě",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": null,
+                "chinese": "要",
+                "pinyin": "yào",
+                "pos": "middle"
+            },
+            {
+                "index": 11,
+                "punctuation": "！”",
+                "chinese": "等",
+                "pinyin": "děng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "从厨房， 看得到猫猫。",
+        "index": 90,
+        "raw": "从厨房， 看得到猫猫。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "从",
+                "pinyin": "cóng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "， ",
+                "chinese": "厨房",
+                "pinyin": "chúfáng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "看",
+                "pinyin": "kàn",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "得到",
+                "pinyin": "dédào",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。",
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "但是更重要， 狗狗听得到。",
+        "index": 91,
+        "raw": "但是更重要， 狗狗听得到。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "但是",
+                "pinyin": "dànshì",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "更",
+                "pinyin": "gèng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "， ",
+                "chinese": "重要",
+                "pinyin": "zhòngyào",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "听",
+                "pinyin": "tīng",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": "。",
+                "chinese": "得到",
+                "pinyin": "dédào",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗的听力非常好。",
+        "index": 92,
+        "raw": "狗狗的听力非常好。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "听力",
+                "pinyin": "tīnglì",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "非常",
+                "pinyin": "fēicháng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "好",
+                "pinyin": "hǎo",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "他能听到猫猫的呼吸， 猫猫的心跳。",
+        "index": 93,
+        "raw": "他能听到猫猫的呼吸， 猫猫的心跳。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "能",
+                "pinyin": "néng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "听到",
+                "pinyin": "tīngdào",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "， ",
+                "chinese": "呼吸",
+                "pinyin": "hūxī",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 10,
+                "punctuation": "。",
+                "chinese": "心跳",
+                "pinyin": "xīntiào",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗在等猫猫睡着的声音。",
+        "index": 94,
+        "raw": "狗狗在等猫猫睡着的声音。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "等",
+                "pinyin": "děng",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "睡着",
+                "pinyin": "shuìzháo",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": "。",
+                "chinese": "声音",
+                "pinyin": "shēngyīn",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "一分钟过了。",
+        "index": 95,
+        "raw": "一分钟过了。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "一分钟",
+                "pinyin": "yìfēnzhōng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "过",
+                "pinyin": "guò",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "两分钟过了。",
+        "index": 96,
+        "raw": "两分钟过了。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "两分钟",
+                "pinyin": "liǎngfēnzhōng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "过",
+                "pinyin": "guò",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫还没睡着。",
+        "index": 97,
+        "raw": "猫猫还没睡着。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "还",
+                "pinyin": "hái",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "没",
+                "pinyin": "méi",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。",
+                "chinese": "睡着",
+                "pinyin": "shuìzháo",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗小声吃了一些饼干。",
+        "index": 98,
+        "raw": "狗狗小声吃了一些饼干。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "小声",
+                "pinyin": "xiǎoshēng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "吃",
+                "pinyin": "chī",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": null,
+                "chinese": "一些",
+                "pinyin": "yīxiē",
+                "pos": "middle"
+            },
+            {
+                "index": 5,
+                "punctuation": "。",
+                "chinese": "饼干",
+                "pinyin": "bǐnggān",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "小声喝了一点水。",
+        "index": 99,
+        "raw": "小声喝了一点水。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "小声",
+                "pinyin": "xiǎoshēng",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "喝",
+                "pinyin": "hē",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "一点",
+                "pinyin": "yìdiǎn",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。",
+                "chinese": "水",
+                "pinyin": "shuǐ",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "又过了一分钟。",
+        "index": 100,
+        "raw": "又过了一分钟。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "又",
+                "pinyin": "yòu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "过",
+                "pinyin": "guò",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "。",
+                "chinese": "一分钟",
+                "pinyin": "yìfēnzhōng",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗从厨房左边， 走到厨房右边。",
+        "index": 101,
+        "raw": "狗狗从厨房左边， 走到厨房右边。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "从",
+                "pinyin": "cóng",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "厨房",
+                "pinyin": "chúfáng",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "， ",
+                "chinese": "左边",
+                "pinyin": "zuǒbiān",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "走",
+                "pinyin": "zǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "到",
+                "pinyin": "dào",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "厨房",
+                "pinyin": "chúfáng",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "。",
+                "chinese": "右边",
+                "pinyin": "yòubiān",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "又走回来。",
+        "index": 102,
+        "raw": "又走回来。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "又",
+                "pinyin": "yòu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "走",
+                "pinyin": "zǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "回来",
+                "pinyin": "huílái",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "又走过去。",
+        "index": 103,
+        "raw": "又走过去。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "又",
+                "pinyin": "yòu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "走",
+                "pinyin": "zǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": "。",
+                "chinese": "过去",
+                "pinyin": "guòqù",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "然后…",
+        "index": 104,
+        "raw": "然后…",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "然后",
+                "pinyin": "ránhòu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "…",
+                "pinyin": "…",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "听到了！",
+        "index": 105,
+        "raw": "听到了！",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "听到",
+                "pinyin": "tīngdào",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": "！",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "猫猫的呼吸放松了。 猫猫睡着了！",
+        "index": 106,
+        "raw": "猫猫的呼吸放松了。 猫猫睡着了！",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "呼吸",
+                "pinyin": "hūxī",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": null,
+                "chinese": "放松",
+                "pinyin": "fàngsōng",
+                "pos": "middle"
+            },
+            {
+                "index": 4,
+                "punctuation": "。 ",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "猫猫",
+                "pinyin": "māomāo",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "睡着",
+                "pinyin": "shuìzháo",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "！",
+                "chinese": "了",
+                "pinyin": "le",
+                "pos": "end"
+            }
+        ]
+    },
+    {
+        "ind": 0,
+        "text": "狗狗轻轻地走过去， 躺在沙发旁边， 陪他的朋友睡一个早觉。",
+        "index": 107,
+        "raw": "狗狗轻轻地走过去， 躺在沙发旁边， 陪他的朋友睡一个早觉。",
+        "newlines": 0,
+        "tokens": [
+            {
+                "index": 0,
+                "punctuation": null,
+                "chinese": "狗狗",
+                "pinyin": "gǒugǒu",
+                "pos": "start"
+            },
+            {
+                "index": 1,
+                "punctuation": null,
+                "chinese": "轻轻地",
+                "pinyin": "qīngqīngdì",
+                "pos": "middle"
+            },
+            {
+                "index": 2,
+                "punctuation": null,
+                "chinese": "走",
+                "pinyin": "zǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 3,
+                "punctuation": "， ",
+                "chinese": "过去",
+                "pinyin": "guòqù",
+                "pos": "middle"
+            },
+            {
+                "index": 6,
+                "punctuation": null,
+                "chinese": "躺",
+                "pinyin": "tǎng",
+                "pos": "middle"
+            },
+            {
+                "index": 7,
+                "punctuation": null,
+                "chinese": "在",
+                "pinyin": "zài",
+                "pos": "middle"
+            },
+            {
+                "index": 8,
+                "punctuation": null,
+                "chinese": "沙发",
+                "pinyin": "shāfā",
+                "pos": "middle"
+            },
+            {
+                "index": 9,
+                "punctuation": "， ",
+                "chinese": "旁边",
+                "pinyin": "pángbiān",
+                "pos": "middle"
+            },
+            {
+                "index": 12,
+                "punctuation": null,
+                "chinese": "陪",
+                "pinyin": "péi",
+                "pos": "middle"
+            },
+            {
+                "index": 13,
+                "punctuation": null,
+                "chinese": "他",
+                "pinyin": "tā",
+                "pos": "middle"
+            },
+            {
+                "index": 14,
+                "punctuation": null,
+                "chinese": "的",
+                "pinyin": "de",
+                "pos": "middle"
+            },
+            {
+                "index": 15,
+                "punctuation": null,
+                "chinese": "朋友",
+                "pinyin": "péngyǒu",
+                "pos": "middle"
+            },
+            {
+                "index": 16,
+                "punctuation": null,
+                "chinese": "睡",
+                "pinyin": "shuì",
+                "pos": "middle"
+            },
+            {
+                "index": 17,
+                "punctuation": null,
+                "chinese": "一个",
+                "pinyin": "yígè",
+                "pos": "middle"
+            },
+            {
+                "index": 18,
+                "punctuation": "。",
+                "chinese": "早觉",
+                "pinyin": "zǎojué",
+                "pos": "end"
+            }
+        ]
+    }
+], "title": "早晨散步"}
